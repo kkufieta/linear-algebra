@@ -23,5 +23,15 @@ A quick glance over basic linear algebra topics.
     * Change of basis
     * Orthonormal bases and the Gram-Schmidt process
     * Eigen-everything
+    
+    
+### Rendering Jupyter Notebooks on Github
+Jupyter notebooks (especially latex math equations) don't render well on Github. They do also often tend to take a long time to load, and half of the time fail to load properly.
 
-Source: [Linear Algebra @Khanacademy](https://www.khanacademy.org/math/linear-algebra)
+To get better and faster results and all your math rendered, convert the notebook as described [here](https://docs.github.com/en/free-pro-team@latest/github/managing-files-in-a-repository/working-with-jupyter-notebook-files-on-github) into an HTML file using this command:
+```bash
+$ jupyter nbconvert --to html NOTEBOOK-NAME.ipynb
+```
+
+### Source
+[Linear Algebra @Khanacademy](https://www.khanacademy.org/math/linear-algebra)
