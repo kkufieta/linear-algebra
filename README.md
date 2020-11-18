@@ -2,7 +2,7 @@
 A quick glance over basic linear algebra topics.
 
 1. [Vectors and Spaces](https://github.com/kkufieta/linear-algebra/tree/main/01_Vectors_and_Spaces)
-    * [Vectors](https://github.com/kkufieta/linear-algebra/blob/main/01_Vectors_and_Spaces/01_Vectors.ipynb)
+    * [Vectors](https://github.com/kkufieta/linear-algebra/blob/main/01_Vectors_and_Spaces/01_Vectors.html)
     * [Linear combinations and spans](https://github.com/kkufieta/linear-algebra/blob/main/01_Vectors_and_Spaces/02_Linear_combinations_and_spans.ipynb)
     * [Linear dependence and independence](https://github.com/kkufieta/linear-algebra/blob/main/01_Vectors_and_Spaces/03_Linear_dependence_and_independence.ipynb)
     * [Subspaces and the basis for a subspace](https://github.com/kkufieta/linear-algebra/blob/main/01_Vectors_and_Spaces/04_Subspaces_and_the_basis_for_a_subspace.ipynb)
